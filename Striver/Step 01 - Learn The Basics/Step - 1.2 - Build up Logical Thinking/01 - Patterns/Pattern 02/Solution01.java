@@ -3,7 +3,9 @@ import java.lang.*;
 import java.io.*;
 
 
-// The main method must be in a class named "Main"
+// Practice Link - https://bit.ly/3QfK2k3
+// Strivers Link - https://takeuforward.org/pattern/pattern-2-right-angled-triangle-pattern/
+
 class Solution01 {
 
     public static void solve(int size) {

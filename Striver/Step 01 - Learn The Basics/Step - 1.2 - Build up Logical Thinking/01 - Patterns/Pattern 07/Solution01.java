@@ -2,6 +2,8 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
+// Practice Link - https://bit.ly/3GzvAAa
+// Strivers Link - https://takeuforward.org/pattern/pattern-7-star-pyramid/
 
 // The main method must be in a class named "Main"
 class Solution01 {

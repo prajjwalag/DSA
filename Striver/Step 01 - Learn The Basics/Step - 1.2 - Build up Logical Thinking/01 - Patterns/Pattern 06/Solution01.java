@@ -2,6 +2,8 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
+// Practice Link - https://bit.ly/3i06XDu
+// Strivers Link - https://takeuforward.org/pattern/pattern-6-inverted-numbered-right-pyramid/
 
 // The main method must be in a class named "Main"
 class Solution01 {

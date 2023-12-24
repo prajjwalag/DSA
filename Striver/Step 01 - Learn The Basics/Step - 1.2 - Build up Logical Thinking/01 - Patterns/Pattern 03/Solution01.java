@@ -3,6 +3,9 @@ import java.lang.*;
 import java.io.*;
 
 
+// Practice Link - https://bit.ly/3CiWV74
+// Strivers Link - https://takeuforward.org/pattern/pattern-3-right-angled-number-pyramid/
+
 // The main method must be in a class named "Main"
 class Solution01 {
 
