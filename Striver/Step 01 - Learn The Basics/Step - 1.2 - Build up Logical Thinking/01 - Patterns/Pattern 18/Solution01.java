@@ -3,7 +3,7 @@ import java.lang.*;
 import java.io.*;
 
 // Practice Link - 
-// Strivers Link - https://takeuforward.org/pattern/pattern-17-alpha-hill-pattern/
+// Strivers Link - https://takeuforward.org/pattern/pattern-18-alpha-triangle-pattern/
 
 
 class Solution01 {
