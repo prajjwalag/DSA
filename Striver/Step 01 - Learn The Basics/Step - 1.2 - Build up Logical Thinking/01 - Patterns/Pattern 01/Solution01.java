@@ -1,6 +1,3 @@
-import java.util.*;
-import java.lang.*;
-import java.io.*;
 
 //Practice Link - https://bit.ly/3QfK2k3
 //Strivers Link - https://takeuforward.org/pattern/pattern-1-rectangular-star-pattern/

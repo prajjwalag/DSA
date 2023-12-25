@@ -1,6 +1,3 @@
-import java.util.*;
-import java.lang.*;
-import java.io.*;
 
 // Practice Link - 
 // Strivers Link - https://takeuforward.org/c-programs/reverse-a-number-in-c/
