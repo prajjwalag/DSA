@@ -1,4 +1,4 @@
-package ApnaCollege.Arrays1;
+package ApnaCollege.S1ArraysPart1;
 
 public class Q4ReverseArray {
     public static void reverseArray(int[] arr) {

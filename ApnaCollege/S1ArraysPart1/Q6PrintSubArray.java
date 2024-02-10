@@ -1,4 +1,4 @@
-package ApnaCollege.Arrays1;
+package ApnaCollege.S1ArraysPart1;
 
 public class Q6PrintSubArray {
     public static void printSubArray(int[] arr) {

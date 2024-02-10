@@ -1,4 +1,4 @@
-package ApnaCollege.Arrays1;
+package ApnaCollege.S1ArraysPart1;
 
 public class Q3BinarySearch {
     public static int binarySearch (int[] arr, int key) {

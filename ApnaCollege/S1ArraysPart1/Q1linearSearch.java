@@ -1,4 +1,4 @@
-package ApnaCollege.Arrays1;
+package ApnaCollege.S1ArraysPart1;
 public class Q1linearSearch {
     public static int search(int[] arr, int key) {
         for(int i=0; i<arr.length; i++) {
