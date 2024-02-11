@@ -10,5 +10,6 @@ public class Q01DoubleInputArray {
         for(int i=0; i<5; i++) {
             System.out.println(arr[i]*2);
         }
+        sc.close();
     }
 }

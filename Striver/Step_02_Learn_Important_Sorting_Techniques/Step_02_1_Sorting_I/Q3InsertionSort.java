@@ -6,7 +6,7 @@ public class Q3InsertionSort {
         for(int i=1; i<arr.length; i++) {
             int element = arr[i];
             int j=i-1;
-            for(; j>=0 && arr[j] > element; j--) {
+            for( ;  j>=0 && arr[j] > element; j--) {
                 arr[j+1] = arr[j];
             }
             arr[j+1] = element;

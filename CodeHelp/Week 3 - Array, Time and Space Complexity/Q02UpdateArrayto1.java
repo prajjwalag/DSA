@@ -10,5 +10,6 @@ public class Q02UpdateArrayto1 {
           arr[i] =1;
           System.out.println(arr[i]);
         }
+        sc.close();
     }
 }
