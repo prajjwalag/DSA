@@ -1,6 +1,6 @@
 package Striver.Step_03_Solve_Problems_On_Array.Step_03_1_Easy.Q5LeftRotateAnArrayByDPlaces;
 
-public class RightRotateOptimal {
+public class RightRotateOptimalLeetCode {
     public static void rightRotateArray(int[] arr, int k) {
         
         k = k % arr.length;
