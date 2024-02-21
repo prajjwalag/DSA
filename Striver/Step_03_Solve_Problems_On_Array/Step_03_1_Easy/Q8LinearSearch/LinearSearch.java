@@ -1,4 +1,4 @@
-package Striver.Step_03_Solve_Problems_On_Array.Step_03_1_Easy.Q7LinearSearch;
+package Striver.Step_03_Solve_Problems_On_Array.Step_03_1_Easy.Q8LinearSearch;
 
 public class LinearSearch {
     public static int linearSearch(int[] arr, int search) {

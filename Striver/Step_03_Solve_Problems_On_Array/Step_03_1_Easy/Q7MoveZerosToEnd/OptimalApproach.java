@@ -1,4 +1,4 @@
-package Striver.Step_03_Solve_Problems_On_Array.Step_03_1_Easy.Q6MoveZerosToEnd;
+package Striver.Step_03_Solve_Problems_On_Array.Step_03_1_Easy.Q7MoveZerosToEnd;
 
 public class OptimalApproach {
     public static void moveZeroes(int[] nums) {

@@ -1,4 +1,4 @@
-package Striver.Step_03_Solve_Problems_On_Array.Step_03_1_Easy.Q3RemoveDuplicates;
+package Striver.Step_03_Solve_Problems_On_Array.Step_03_1_Easy.Q4RemoveDuplicates;
 
 public class OptimalApproach {
     public static int removeDuplicates(int[] nums) {
