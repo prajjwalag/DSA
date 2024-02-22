@@ -1,4 +1,4 @@
-package Striver.Step_03_Solve_Problems_On_Array.Step_03_1_Easy.Q6LeftRotateAnArrayByDPlaces;
+package Striver.Step_03_Solve_Problems_On_Array.Step_03_1_Easy.Q06LeftRotateAnArrayByDPlaces;
 
 public class LeftRotateBruteForce {
     public static void leftRotateArray(int[] arr, int d) {

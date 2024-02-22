@@ -1,4 +1,4 @@
-package Striver.Step_03_Solve_Problems_On_Array.Step_03_1_Easy.Q2SecondLargestAndSmallestElement;
+package Striver.Step_03_Solve_Problems_On_Array.Step_03_1_Easy.Q02SecondLargestAndSmallestElement;
 
 public class BetterApproach {
   public static int[] findSecondOrderElements(int[] arr) {

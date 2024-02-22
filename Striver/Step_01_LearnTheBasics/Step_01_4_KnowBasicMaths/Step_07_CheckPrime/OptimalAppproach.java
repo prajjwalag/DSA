@@ -1,4 +1,4 @@
-
+package Striver.Step_01_LearnTheBasics.Step_01_4_KnowBasicMaths.Step_07_CheckPrime;
 // The main method must be in a class named "Main"
 class Main {
     public static boolean checkPrime(int num) {

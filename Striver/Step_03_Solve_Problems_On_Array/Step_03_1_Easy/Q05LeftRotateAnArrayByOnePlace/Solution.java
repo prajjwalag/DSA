@@ -1,4 +1,4 @@
-package Striver.Step_03_Solve_Problems_On_Array.Step_03_1_Easy.Q5LeftRotateAnArrayByOnePlace;
+package Striver.Step_03_Solve_Problems_On_Array.Step_03_1_Easy.Q05LeftRotateAnArrayByOnePlace;
 
 public class Solution {
     public static void rotateLeftByOne(int[] arr) {

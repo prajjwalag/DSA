@@ -1,4 +1,4 @@
-package Striver.Step_03_Solve_Problems_On_Array.Step_03_1_Easy.Q1LargestElementInArray;
+package Striver.Step_03_Solve_Problems_On_Array.Step_03_1_Easy.Q01LargestElementInArray;
 
 public class OptimalSolution {
     public static int findMax(int[] arr) {

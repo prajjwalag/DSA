@@ -1,12 +1,11 @@
-package Striver.Step_03_Solve_Problems_On_Array.Step_03_1_Easy.Q6LeftRotateAnArrayByDPlaces;
+package Striver.Step_03_Solve_Problems_On_Array.Step_03_1_Easy.Q06LeftRotateAnArrayByDPlaces;
 
-public class RightRotateOptimalLeetCode {
-    public static void rightRotateArray(int[] arr, int k) {
-        
-        k = k % arr.length;
-        
-        reverseArray(arr, arr.length-k, arr.length-1);
-        reverseArray(arr, 0, arr.length-k-1);
+public class LeftRotateOptimal {
+
+    public static void leftRotateArray(int[] arr, int d) {
+        d = d%arr.length;
+        reverseArray(arr, 0, d-1);
+        reverseArray(arr, d, arr.length-1);
         reverseArray(arr, 0, arr.length-1);
         
     }
@@ -31,7 +30,7 @@ public class RightRotateOptimalLeetCode {
 
     public static void main(String[] args) {
         int[] arr = {1, 2, 3, 4, 5, 6, 7};
-        rightRotateArray(arr, 3);
+        leftRotateArray(arr, 3);
         printArray(arr);
     }
 }
