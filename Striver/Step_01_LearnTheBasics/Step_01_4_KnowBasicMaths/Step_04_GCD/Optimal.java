@@ -1,4 +1,5 @@
 
+
 public class Optimal {
     public static int findGCD(int a, int b) {
         if(a==0) {
